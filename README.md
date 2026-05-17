@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Mohamed Satti Banner" width="100%">
-</p>
-
 <h1 align="center">Hi there, I'm Mohamed Satti 👋</h1>
 
 <p align="center">
