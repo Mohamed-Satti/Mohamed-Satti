@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/mohamed-satti"><img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=0077B5" alt="LinkedIn"></a>
   <a href="https://github.com/Mohamed-Satti"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" alt="GitHub"></a>
-  <a href="mailto:satti.mohamed17@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"></a>
 </p>
 
 ---
@@ -25,5 +24,4 @@ Currently, I am developing advanced AI-based apps, custom edge intelligence pipe
 <p align="left">
   <a href="https://linkedin.com/in/mohamed-satti"><img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"></a>
   <a href="https://github.com/Mohamed-Satti"><img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"></a>
-  <a href="mailto:satti.mohamed17@gmail.com"><img src="https://img.shields.io/badge/Email-101010?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
 </p>
